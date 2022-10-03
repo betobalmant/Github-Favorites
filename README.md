@@ -1,6 +1,6 @@
 # Explorer (Rocketseat)
 
-![preview](./images/preview.png)
+![preview](./image/preview.png)
 
 > Trilha Explorer
 
