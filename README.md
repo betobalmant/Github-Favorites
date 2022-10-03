@@ -6,7 +6,7 @@
 
 Projeto construido no stage 6 do curso Explorer da Rocketseat
 
-[Clique aqui para acessar](https://betobalmant.github.io/Github-Favorites/)
+[Clique aqui para acessar](https://github-favorites-nine.vercel.app/)
 
 ## Tecnologias
 
